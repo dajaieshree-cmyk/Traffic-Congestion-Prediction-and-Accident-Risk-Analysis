@@ -1,0 +1,5 @@
+,acc,f1,auc
+none,0.669,0.431,0.714
+dropout 0.3,0.668,0.431,0.715
+batchnorm,0.651,0.428,0.713
+dropout + batchnorm,0.658,0.43,0.715

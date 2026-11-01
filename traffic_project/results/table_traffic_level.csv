@@ -1,0 +1,3 @@
+model,task,accuracy,macro_F1
+YOLOv8n + PCU thresholds,traffic level,0.757,0.686
+ResNet18 (fine-tuned),traffic level,0.849,0.809

@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.zip
+*.pt
+US_Accidents_full.csv
+traffic_project/accidents.csv
+traffic_project/images/
+traffic_project/models/
+traffic_project/results/annotated/
